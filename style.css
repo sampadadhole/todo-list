@@ -1,0 +1,72 @@
+
+.main-container{
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* margin-top:11rem; */
+}
+
+.header {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 75px;
+margin: 2rem;
+text-transform: uppercase;
+color: #19A090;
+}
+
+.add-text {
+width: 406px;
+height: 41px;
+border-radius: 17px;
+margin: 2rem;
+
+}
+
+.add-text:focus{
+    box-shadow: 0 0 0 1px #19A090;
+    outline:none;
+}
+
+h2{
+    /* position:absolute; */
+    border: solid #D9F2EF 0.8rem;
+    background-color: #D9F2EF;
+    border-radius:16px;
+    color: #19A090;
+    
+}
+
+.huge {
+    font-size: 3rem;
+}
+.svg-delete{
+    display: inline-flex;
+    width:1rem;
+    position: relative;
+    top:-1rem;
+}
+
+.svg-delete:hover{
+    width: 1.3rem;
+}
+.svg-edit{
+    display: inline-flex;
+    width:1rem;
+    position: relative;
+    top:-1rem;
+}
+.svg-edit:hover{
+    width: 1.3rem;
+}
+.added-list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    
+    /* margin-right:21rem; */
+}
