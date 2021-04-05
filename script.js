@@ -19,7 +19,7 @@ function addItem (e) {
             <h3>${e.target.value}</h3>
             <div><img class="svg-delete" src="./assets/icons/delete.svg"></img>
             <img class="svg-edit" src="./assets/icons/edit.svg"></img></div>
-            </li>`;
+            </li>`; 
     e.preventDefault();
     inputBox.value = "";
     
