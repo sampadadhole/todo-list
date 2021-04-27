@@ -1,1 +1,1 @@
-Checkout the the project here => [Portfolio](https://sampadadhole.github.io/todo-list/)
+Checkout the the project here => [TodoList](https://sampadadhole.github.io/todo-list/)
